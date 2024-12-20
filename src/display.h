@@ -15,8 +15,8 @@
 #define DISPLAY_WIDTH 256
 #define DISPLAY_HEIGHT 192
 
-#define VERTEX_SHADER_FILE "shaders/vertex.glsl"
-#define FRAGMENT_SHADER_FILE "shaders/fragment.glsl"
+#define VERTEX_SHADER_FILE "src/shaders/vertex.glsl"
+#define FRAGMENT_SHADER_FILE "src/shaders/fragment.glsl"
 
 class Display {
     public:
